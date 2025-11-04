@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: str == null
+  - text: str.equals("abc")
+  - text: '"abc".equals(str)'
+  - text: str.length()
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3783#comment
+status: Solved
+record: -1
+local_check: false
