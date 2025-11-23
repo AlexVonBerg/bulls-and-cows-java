@@ -1,0 +1,651 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="941ed61c-8184-48a0-b805-54da0bc04eb2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero/Java_Problems.Topics-One-line_condition_with_ternary_operator-Categorize_integer_as_positive,_negative,_or_zero.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero/Java_Problems.Topics-One-line_condition_with_ternary_operator-Categorize_integer_as_positive,_negative,_or_zero.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero/Java_Problems.Topics-One-line_condition_with_ternary_operator-Categorize_integer_as_positive,_negative,_or_zero.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Check if a given number is equal to 10/Java_Problems.Topics-One-line_condition_with_ternary_operator-Check_if_a_given_number_is_equal_to_10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Check if a given number is equal to 10/Java_Problems.Topics-One-line_condition_with_ternary_operator-Check_if_a_given_number_is_equal_to_10.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Check if a given number is equal to 10/Java_Problems.Topics-One-line_condition_with_ternary_operator-Check_if_a_given_number_is_equal_to_10.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Paycheck face-off  Who's the breadwinner/Java_Problems.Topics-One-line_condition_with_ternary_operator-Paycheck_face-off__Who's_the_breadwinner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Paycheck face-off  Who's the breadwinner/Java_Problems.Topics-One-line_condition_with_ternary_operator-Paycheck_face-off__Who's_the_breadwinner.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Paycheck face-off  Who's the breadwinner/Java_Problems.Topics-One-line_condition_with_ternary_operator-Paycheck_face-off__Who's_the_breadwinner.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Theory/Java_Problems.Topics-One-line_condition_with_ternary_operator-Theory.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Theory/Java_Problems.Topics-One-line_condition_with_ternary_operator-Theory.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Theory/Java_Problems.Topics-One-line_condition_with_ternary_operator-Theory.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Write a ternary operator/Java_Problems.Topics-One-line_condition_with_ternary_operator-Write_a_ternary_operator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Write a ternary operator/Java_Problems.Topics-One-line_condition_with_ternary_operator-Write_a_ternary_operator.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/One-line condition with ternary operator/Write a ternary operator/Java_Problems.Topics-One-line_condition_with_ternary_operator-Write_a_ternary_operator.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/A keyword to terminate the loop/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/A keyword to terminate the loop/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/A keyword to terminate the loop/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/A keyword to terminate the loop/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Bus tour/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Bus tour/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Bus tour/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Bus tour/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Divisible by 4/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Divisible by 4/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Divisible by 4/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Divisible by 4/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Printing even numbers with a skip condition/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Printing even numbers with a skip condition/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Printing even numbers with a skip condition/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Printing even numbers with a skip condition/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Printing numbers/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Printing numbers/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Printing numbers/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Printing numbers/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Statement for skipping an iteration/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Statement for skipping an iteration/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Statement for skipping an iteration/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Statement for skipping an iteration/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/What does the code print/answer.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/What does the code print/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/What does the code print/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/What does the code print/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Break and continue. Branching/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Calculating factorials/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Calculating factorials/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Calculating factorials/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Calculating factorials/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Choose a return type/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Choose a return type/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Choose a return type/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Choose a return type/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Finalizing a greeting message function/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Finalizing a greeting message function/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Finalizing a greeting message function/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Finalizing a greeting message function/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Method signature/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Method signature/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Method signature/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Method signature/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Raise to the power/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Raise to the power/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Raise to the power/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Raise to the power/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Rectangles  The shape of things to sum/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Rectangles  The shape of things to sum/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Rectangles  The shape of things to sum/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Rectangles  The shape of things to sum/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Sum of numbers in the range/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Sum of numbers in the range/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Sum of numbers in the range/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Sum of numbers in the range/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/The sign of a number/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/The sign of a number/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/The sign of a number/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/The sign of a number/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Declaring methods/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/Danger levels/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/Danger levels/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/Danger levels/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/Danger levels/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/Java Enum Fields and Methods/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/Java Enum Fields and Methods/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/Java Enum Fields and Methods/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/Java Enum Fields and Methods/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/Fields and methods in enum/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/Grades/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/Grades/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/Grades/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/Grades/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/Numbers divisible by six/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/Numbers divisible by six/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/Numbers divisible by six/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/Numbers divisible by six/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/The sum of integers from a to b/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/The sum of integers from a to b/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/The sum of integers from a to b/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/The sum of integers from a to b/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/For loop/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Categorize integer as positive, negative, or zero/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Check if a given number is equal to 10/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Check if a given number is equal to 10/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Check if a given number is equal to 10/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Check if a given number is equal to 10/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Paycheck face-off  Who's the breadwinner/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Paycheck face-off  Who's the breadwinner/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Paycheck face-off  Who's the breadwinner/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Paycheck face-off  Who's the breadwinner/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Write a ternary operator/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Write a ternary operator/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Write a ternary operator/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/Write a ternary operator/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/One-line condition with ternary operator/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Chilling halt to a warm conversion/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Chilling halt to a warm conversion/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Chilling halt to a warm conversion/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Chilling halt to a warm conversion/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Guess the Number/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Guess the Number/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Guess the Number/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Guess the Number/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Powers of two/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Powers of two/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Powers of two/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Powers of two/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Statements/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Statements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Statements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Statements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/The largest element of a sequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/The largest element of a sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/The largest element of a sequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/The largest element of a sequence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/The length of the sequence/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/The length of the sequence/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/The length of the sequence/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/The length of the sequence/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/The sum of elements/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/The sum of elements/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/The sum of elements/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/The sum of elements/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Theory/src/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Theory/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Theory/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/Theory/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java Problems/Topics/While and do-while loops/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.author_contents_storage_db-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Hyperskill.Cinema_Room_Manager-task.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Hyperskill.Cinema_Room_Manager-task.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/Hyperskill.Cinema_Room_Manager-task.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/classes/java/Hyperskill.Cinema_Room_Manager-task-build-classes-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/classes/java/Hyperskill.Cinema_Room_Manager-task-build-classes-java.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/classes/java/Hyperskill.Cinema_Room_Manager-task-build-classes-java.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java/Hyperskill.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java/Hyperskill.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/generated/sources/annotationProcessor/java/Hyperskill.Cinema_Room_Manager-task-build-generated-sources-annotationProcessor-java.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/generated/sources/headers/java/Hyperskill.Cinema_Room_Manager-task-build-generated-sources-headers-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/generated/sources/headers/java/Hyperskill.Cinema_Room_Manager-task-build-generated-sources-headers-java.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/generated/sources/headers/java/Hyperskill.Cinema_Room_Manager-task-build-generated-sources-headers-java.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/reports/tests/Hyperskill.Cinema_Room_Manager-task-build-reports-tests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/reports/tests/Hyperskill.Cinema_Room_Manager-task-build-reports-tests.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/reports/tests/Hyperskill.Cinema_Room_Manager-task-build-reports-tests.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/test-results/Hyperskill.Cinema_Room_Manager-task-build-test-results.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/test-results/Hyperskill.Cinema_Room_Manager-task-build-test-results.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/test-results/Hyperskill.Cinema_Room_Manager-task-build-test-results.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/tmp/Hyperskill.Cinema_Room_Manager-task-build-tmp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/tmp/Hyperskill.Cinema_Room_Manager-task-build-tmp.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Cinema Room Manager/task/build/tmp/Hyperskill.Cinema_Room_Manager-task-build-tmp.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Calculate Square/Hyperskill.Topics-Array_exceptions-Calculate_Square.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Calculate Square/Hyperskill.Topics-Array_exceptions-Calculate_Square.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Calculate Square/Hyperskill.Topics-Array_exceptions-Calculate_Square.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Determine an exception/Hyperskill.Topics-Array_exceptions-Determine_an_exception.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Determine an exception/Hyperskill.Topics-Array_exceptions-Determine_an_exception.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Determine an exception/Hyperskill.Topics-Array_exceptions-Determine_an_exception.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Explore the standard class library/Hyperskill.Topics-Array_exceptions-Explore_the_standard_class_library.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Explore the standard class library/Hyperskill.Topics-Array_exceptions-Explore_the_standard_class_library.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Explore the standard class library/Hyperskill.Topics-Array_exceptions-Explore_the_standard_class_library.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Is the code fully protected/Hyperskill.Topics-Array_exceptions-Is_the_code_fully_protected.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Is the code fully protected/Hyperskill.Topics-Array_exceptions-Is_the_code_fully_protected.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Is the code fully protected/Hyperskill.Topics-Array_exceptions-Is_the_code_fully_protected.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/No exceptions/Hyperskill.Topics-Array_exceptions-No_exceptions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/No exceptions/Hyperskill.Topics-Array_exceptions-No_exceptions.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/No exceptions/Hyperskill.Topics-Array_exceptions-No_exceptions.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Out of bounds/Hyperskill.Topics-Array_exceptions-Out_of_bounds.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Out of bounds/Hyperskill.Topics-Array_exceptions-Out_of_bounds.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Out of bounds/Hyperskill.Topics-Array_exceptions-Out_of_bounds.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Theory/Hyperskill.Topics-Array_exceptions-Theory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Theory/Hyperskill.Topics-Array_exceptions-Theory.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/Array exceptions/Theory/Hyperskill.Topics-Array_exceptions-Theory.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Avoid NPE/Hyperskill.Topics-NullPointerException-Avoid_NPE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Avoid NPE/Hyperskill.Topics-NullPointerException-Avoid_NPE.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Avoid NPE/Hyperskill.Topics-NullPointerException-Avoid_NPE.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Lines that may throw NPE/Hyperskill.Topics-NullPointerException-Lines_that_may_throw_NPE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Lines that may throw NPE/Hyperskill.Topics-NullPointerException-Lines_that_may_throw_NPE.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Lines that may throw NPE/Hyperskill.Topics-NullPointerException-Lines_that_may_throw_NPE.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Return empty string when argument is null/Hyperskill.Topics-NullPointerException-Return_empty_string_when_argument_is_null.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Return empty string when argument is null/Hyperskill.Topics-NullPointerException-Return_empty_string_when_argument_is_null.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Return empty string when argument is null/Hyperskill.Topics-NullPointerException-Return_empty_string_when_argument_is_null.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Theory/Hyperskill.Topics-NullPointerException-Theory.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Theory/Hyperskill.Topics-NullPointerException-Theory.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Theory/Hyperskill.Topics-NullPointerException-Theory.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Unknown input/Hyperskill.Topics-NullPointerException-Unknown_input.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Unknown input/Hyperskill.Topics-NullPointerException-Unknown_input.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Unknown input/Hyperskill.Topics-NullPointerException-Unknown_input.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/When NPE cannot occur/Hyperskill.Topics-NullPointerException-When_NPE_cannot_occur.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/When NPE cannot occur/Hyperskill.Topics-NullPointerException-When_NPE_cannot_occur.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/When NPE cannot occur/Hyperskill.Topics-NullPointerException-When_NPE_cannot_occur.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Where NPE might occur/Hyperskill.Topics-NullPointerException-Where_NPE_might_occur.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Where NPE might occur/Hyperskill.Topics-NullPointerException-Where_NPE_might_occur.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Topics/NullPointerException/Where NPE might occur/Hyperskill.Topics-NullPointerException-Where_NPE_might_occur.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Add menu to your application/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Add menu to your application/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Add menu to your application/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Calculate the profit/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Calculate the profit/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Calculate the profit/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Manage stats and make your app error-prone/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Manage stats and make your app error-prone/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Manage stats and make your app error-prone/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Print seats/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Print seats/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Print seats/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Set the ticket price/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Set the ticket price/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/Set the ticket price/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java/main/cinema/Cinema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/classes/java/test/CinemaTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests/test/classes/CinemaTests.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/reports/tests/test/packages/default-package.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results/test/TEST-CinemaTests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/compileJava/compileTransaction/stash-dir/Cinema.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_1056004906780616303_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_10919873328603425579_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_11893005635626270787_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_12179520732782930759_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_12388006593355071820_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_13467335532965963324_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_1353607713647817676_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_1361313277841016184_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_14199649115084096803_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_14227466372068316785_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_14432425702282356527_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_14481874906007293576_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_15667268989502806798_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_15932686556339807547_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_15936929022846750142_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_16089601881886234537_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_17516228655743856258_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_17678448783296348704_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_4225653532959853628_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_4528881696292903480_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_5685166450179565797_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_6239054243604728318_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_664700387186721466_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_6698774520758931248_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/build/tmp/test/jar_extract_8436495855498661566_tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/out/production/classes/cinema/Cinema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/src/cinema/Cinema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinema Room Manager/task/test/CinemaTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.gradle/8.5/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.gradle/8.5/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.gradle/8.5/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.gradle/8.5/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.gradle/8.5/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.gradle/8.5/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.gradle/8.5/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.gradle/8.5/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.gradle/8.5/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.gradle/8.5/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.gradle/8.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/.author_contents_storage_db-shm" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/.author_contents_storage_db-shm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/.author_contents_storage_db-wal" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/.author_contents_storage_db-wal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1006253404/Java_Problems.Topics-Integer_types_and_operations-Converting_minutes_to_hours_and_minutes_format.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1006253404/Java_Problems.Topics-Integer_types_and_operations-Converting_minutes_to_hours_and_minutes_format.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1006253404/Java_Problems.Topics-Integer_types_and_operations-Converting_minutes_to_hours_and_minutes_format.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1006253404/Java_Problems.Topics-Integer_types_and_operations-Converting_minutes_to_hours_and_minutes_format.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1064698540/Java_Problems.Topics-Writing_first_program-Elements_of_a_program.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1064698540/Java_Problems.Topics-Writing_first_program-Elements_of_a_program.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1064698540/Java_Problems.Topics-Writing_first_program-Elements_of_a_program.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1064698540/Java_Problems.Topics-Writing_first_program-Elements_of_a_program.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1103779473/Java_Problems.Topics-Printing_data-Alice_in_Codeland__A_greeting_adventure.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1103779473/Java_Problems.Topics-Printing_data-Alice_in_Codeland__A_greeting_adventure.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1103779473/Java_Problems.Topics-Printing_data-Alice_in_Codeland__A_greeting_adventure.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1103779473/Java_Problems.Topics-Printing_data-Alice_in_Codeland__A_greeting_adventure.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1161228647/Java_Problems.Topics-Printing_data-Goodbye,_world.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1161228647/Java_Problems.Topics-Printing_data-Goodbye,_world.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1161228647/Java_Problems.Topics-Printing_data-Goodbye,_world.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1161228647/Java_Problems.Topics-Printing_data-Goodbye,_world.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1204859540/Java_Problems.Topics-Types_and_variables-Assignments__1_.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1204859540/Java_Problems.Topics-Types_and_variables-Assignments__1_.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1204859540/Java_Problems.Topics-Types_and_variables-Assignments__1_.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1204859540/Java_Problems.Topics-Types_and_variables-Assignments__1_.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1205793680/Java_Problems.Topics-Types_and_variables-Forge_your_digital_destiny.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1205793680/Java_Problems.Topics-Types_and_variables-Forge_your_digital_destiny.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1205793680/Java_Problems.Topics-Types_and_variables-Forge_your_digital_destiny.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1205793680/Java_Problems.Topics-Types_and_variables-Forge_your_digital_destiny.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1235377868/Java_Problems.Topics-Writing_first_program-The_first_program.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1235377868/Java_Problems.Topics-Writing_first_program-The_first_program.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1235377868/Java_Problems.Topics-Writing_first_program-The_first_program.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1235377868/Java_Problems.Topics-Writing_first_program-The_first_program.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1269246821/Java_Problems.Topics-Types_and_variables-New_player.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1269246821/Java_Problems.Topics-Types_and_variables-New_player.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1269246821/Java_Problems.Topics-Types_and_variables-New_player.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1269246821/Java_Problems.Topics-Types_and_variables-New_player.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1273282194/Java_Problems.Topics-Types_and_variables-The_assignment_operator.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1273282194/Java_Problems.Topics-Types_and_variables-The_assignment_operator.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1273282194/Java_Problems.Topics-Types_and_variables-The_assignment_operator.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1273282194/Java_Problems.Topics-Types_and_variables-The_assignment_operator.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1284323658/Java_Problems.Topics-Writing_first_program-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1284323658/Java_Problems.Topics-Writing_first_program-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1284323658/Java_Problems.Topics-Writing_first_program-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1284323658/Java_Problems.Topics-Writing_first_program-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1310880046/Java_Problems.Topics-Comments-The_forgotten_comments.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1310880046/Java_Problems.Topics-Comments-The_forgotten_comments.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1310880046/Java_Problems.Topics-Comments-The_forgotten_comments.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1310880046/Java_Problems.Topics-Comments-The_forgotten_comments.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1362279678/Java_Problems.Topics-Arithmetic_operations-Sum,_multiplication,_and_division_of_two_integers.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1362279678/Java_Problems.Topics-Arithmetic_operations-Sum,_multiplication,_and_division_of_two_integers.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1362279678/Java_Problems.Topics-Arithmetic_operations-Sum,_multiplication,_and_division_of_two_integers.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1362279678/Java_Problems.Topics-Arithmetic_operations-Sum,_multiplication,_and_division_of_two_integers.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1576883316/Java_Problems.Topics-Writing_first_program-Match_terms_and_their_definitions.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1576883316/Java_Problems.Topics-Writing_first_program-Match_terms_and_their_definitions.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1576883316/Java_Problems.Topics-Writing_first_program-Match_terms_and_their_definitions.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1576883316/Java_Problems.Topics-Writing_first_program-Match_terms_and_their_definitions.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1737586249/Java_Problems.Topics-Writing_first_program-Hello,_Java.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1737586249/Java_Problems.Topics-Writing_first_program-Hello,_Java.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-1737586249/Java_Problems.Topics-Writing_first_program-Hello,_Java.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-1737586249/Java_Problems.Topics-Writing_first_program-Hello,_Java.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-2017425121/Java_Problems.Topics-Types_and_variables-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-2017425121/Java_Problems.Topics-Types_and_variables-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-2017425121/Java_Problems.Topics-Types_and_variables-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-2017425121/Java_Problems.Topics-Types_and_variables-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-2058972130/Java_Problems.Topics-Types_and_variables-Statements.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-2058972130/Java_Problems.Topics-Types_and_variables-Statements.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-2058972130/Java_Problems.Topics-Types_and_variables-Statements.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-2058972130/Java_Problems.Topics-Types_and_variables-Statements.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-2063747548/Java_Problems.Topics-Arithmetic_operations-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-2063747548/Java_Problems.Topics-Arithmetic_operations-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-2063747548/Java_Problems.Topics-Arithmetic_operations-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-2063747548/Java_Problems.Topics-Arithmetic_operations-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-2102374728/Java_Problems.Topics-Comments-Uncommented_comments.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-2102374728/Java_Problems.Topics-Comments-Uncommented_comments.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-2102374728/Java_Problems.Topics-Comments-Uncommented_comments.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-2102374728/Java_Problems.Topics-Comments-Uncommented_comments.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-272118933/Java_Problems.Topics-Writing_first_program-Complete_the_code_for_a_greeting_and_year_display.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-272118933/Java_Problems.Topics-Writing_first_program-Complete_the_code_for_a_greeting_and_year_display.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-272118933/Java_Problems.Topics-Writing_first_program-Complete_the_code_for_a_greeting_and_year_display.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-272118933/Java_Problems.Topics-Writing_first_program-Complete_the_code_for_a_greeting_and_year_display.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-353853928/Java_Problems.Topics-Comments-Incorrect_comments.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-353853928/Java_Problems.Topics-Comments-Incorrect_comments.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-353853928/Java_Problems.Topics-Comments-Incorrect_comments.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-353853928/Java_Problems.Topics-Comments-Incorrect_comments.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-487481790/Java_Problems.Topics-Integer_types_and_operations-Tens_digit.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-487481790/Java_Problems.Topics-Integer_types_and_operations-Tens_digit.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-487481790/Java_Problems.Topics-Integer_types_and_operations-Tens_digit.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-487481790/Java_Problems.Topics-Integer_types_and_operations-Tens_digit.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-620596108/Java_Problems.Topics-Comments-Hello,_Java_platform.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-620596108/Java_Problems.Topics-Comments-Hello,_Java_platform.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-620596108/Java_Problems.Topics-Comments-Hello,_Java_platform.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-620596108/Java_Problems.Topics-Comments-Hello,_Java_platform.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-768626351/Java_Problems.Topics-Types_and_variables-Code_reviewing.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-768626351/Java_Problems.Topics-Types_and_variables-Code_reviewing.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-768626351/Java_Problems.Topics-Types_and_variables-Code_reviewing.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-768626351/Java_Problems.Topics-Types_and_variables-Code_reviewing.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-823244393/Java_Problems.Topics-Arithmetic_operations-Calculating_square,_cube_and_fourth_power_of_a_number.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-823244393/Java_Problems.Topics-Arithmetic_operations-Calculating_square,_cube_and_fourth_power_of_a_number.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-823244393/Java_Problems.Topics-Arithmetic_operations-Calculating_square,_cube_and_fourth_power_of_a_number.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-823244393/Java_Problems.Topics-Arithmetic_operations-Calculating_square,_cube_and_fourth_power_of_a_number.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-930450540/Java_Problems.Topics-Integer_types_and_operations-Computing_the_remainder_and_its_triple.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-930450540/Java_Problems.Topics-Integer_types_and_operations-Computing_the_remainder_and_its_triple.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-930450540/Java_Problems.Topics-Integer_types_and_operations-Computing_the_remainder_and_its_triple.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-930450540/Java_Problems.Topics-Integer_types_and_operations-Computing_the_remainder_and_its_triple.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-953349427/Java_Problems.Topics-Integer_types_and_operations-Integer_operations.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-953349427/Java_Problems.Topics-Integer_types_and_operations-Integer_operations.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/-953349427/Java_Problems.Topics-Integer_types_and_operations-Integer_operations.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/-953349427/Java_Problems.Topics-Integer_types_and_operations-Integer_operations.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1025678420/Java_Problems.Topics-Writing_first_program-Complete_the_code_to_print_different_data_types.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1025678420/Java_Problems.Topics-Writing_first_program-Complete_the_code_to_print_different_data_types.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1025678420/Java_Problems.Topics-Writing_first_program-Complete_the_code_to_print_different_data_types.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1025678420/Java_Problems.Topics-Writing_first_program-Complete_the_code_to_print_different_data_types.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1228282709/Java_Problems.Topics-Printing_data-Determining_life_stage_based_on_age.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1228282709/Java_Problems.Topics-Printing_data-Determining_life_stage_based_on_age.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1228282709/Java_Problems.Topics-Printing_data-Determining_life_stage_based_on_age.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1228282709/Java_Problems.Topics-Printing_data-Determining_life_stage_based_on_age.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1278433311/Java_Problems.Topics-Writing_first_program-Find_a_word_that_is_not_a_keyword.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1278433311/Java_Problems.Topics-Writing_first_program-Find_a_word_that_is_not_a_keyword.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1278433311/Java_Problems.Topics-Writing_first_program-Find_a_word_that_is_not_a_keyword.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1278433311/Java_Problems.Topics-Writing_first_program-Find_a_word_that_is_not_a_keyword.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1367865105/Java_Problems.Topics-Printing_data-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1367865105/Java_Problems.Topics-Printing_data-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1367865105/Java_Problems.Topics-Printing_data-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1367865105/Java_Problems.Topics-Printing_data-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1373478998/Java_Problems.Topics-Comments-Uncomment_a_line.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1373478998/Java_Problems.Topics-Comments-Uncomment_a_line.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1373478998/Java_Problems.Topics-Comments-Uncomment_a_line.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1373478998/Java_Problems.Topics-Comments-Uncomment_a_line.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/151078874/Java_Problems.Topics-Comments-Groups_of_comments.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/151078874/Java_Problems.Topics-Comments-Groups_of_comments.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/151078874/Java_Problems.Topics-Comments-Groups_of_comments.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/151078874/Java_Problems.Topics-Comments-Groups_of_comments.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1554298399/Java_Problems.Topics-Printing_data-We_need_to_learn_Java.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1554298399/Java_Problems.Topics-Printing_data-We_need_to_learn_Java.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1554298399/Java_Problems.Topics-Printing_data-We_need_to_learn_Java.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1554298399/Java_Problems.Topics-Printing_data-We_need_to_learn_Java.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1592975349/Java_Problems.Topics-Integer_types_and_operations-From_hourly_grind_to_yearly_gold.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1592975349/Java_Problems.Topics-Integer_types_and_operations-From_hourly_grind_to_yearly_gold.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1592975349/Java_Problems.Topics-Integer_types_and_operations-From_hourly_grind_to_yearly_gold.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1592975349/Java_Problems.Topics-Integer_types_and_operations-From_hourly_grind_to_yearly_gold.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1783334519/Java_Problems.Topics-Reading_user's_input_with_Scanner-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1783334519/Java_Problems.Topics-Reading_user's_input_with_Scanner-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1783334519/Java_Problems.Topics-Reading_user's_input_with_Scanner-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1783334519/Java_Problems.Topics-Reading_user's_input_with_Scanner-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1840053976/Java_Problems.Topics-Printing_data-Déjà_vu.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1840053976/Java_Problems.Topics-Printing_data-Déjà_vu.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/1840053976/Java_Problems.Topics-Printing_data-Déjà_vu.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/1840053976/Java_Problems.Topics-Printing_data-Déjà_vu.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/2017675835/Java_Problems.util.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/2017675835/Java_Problems.util.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/2017675835/Java_Problems.util.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/2017675835/Java_Problems.util.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/2051732/Java_Problems.Topics-Reading_user's_input_with_Scanner-Guest_list_of_a_hotel.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/2051732/Java_Problems.Topics-Reading_user's_input_with_Scanner-Guest_list_of_a_hotel.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/2051732/Java_Problems.Topics-Reading_user's_input_with_Scanner-Guest_list_of_a_hotel.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/2051732/Java_Problems.Topics-Reading_user's_input_with_Scanner-Guest_list_of_a_hotel.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/2064227211/Java_Problems.Topics-Types_and_variables-Declaring_and_printing_different_variable_types.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/2064227211/Java_Problems.Topics-Types_and_variables-Declaring_and_printing_different_variable_types.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/2064227211/Java_Problems.Topics-Types_and_variables-Declaring_and_printing_different_variable_types.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/2064227211/Java_Problems.Topics-Types_and_variables-Declaring_and_printing_different_variable_types.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/283453719/Java_Problems.Topics-Types_and_variables-Invalid_declaration_of_variables.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/283453719/Java_Problems.Topics-Types_and_variables-Invalid_declaration_of_variables.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/283453719/Java_Problems.Topics-Types_and_variables-Invalid_declaration_of_variables.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/283453719/Java_Problems.Topics-Types_and_variables-Invalid_declaration_of_variables.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/38876242/Java_Problems.Topics-Reading_user's_input_with_Scanner-Summing_apples_and_oranges_from_user_input.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/38876242/Java_Problems.Topics-Reading_user's_input_with_Scanner-Summing_apples_and_oranges_from_user_input.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/38876242/Java_Problems.Topics-Reading_user's_input_with_Scanner-Summing_apples_and_oranges_from_user_input.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/38876242/Java_Problems.Topics-Reading_user's_input_with_Scanner-Summing_apples_and_oranges_from_user_input.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/423537484/Java_Problems.Topics-Types_and_variables-Assignments.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/423537484/Java_Problems.Topics-Types_and_variables-Assignments.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/423537484/Java_Problems.Topics-Types_and_variables-Assignments.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/423537484/Java_Problems.Topics-Types_and_variables-Assignments.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/432798793/Java_Problems.Topics-Printing_data-From_0_to_4.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/432798793/Java_Problems.Topics-Printing_data-From_0_to_4.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/432798793/Java_Problems.Topics-Printing_data-From_0_to_4.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/432798793/Java_Problems.Topics-Printing_data-From_0_to_4.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/435806318/Java_Problems.Topics-Comments-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/435806318/Java_Problems.Topics-Comments-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/435806318/Java_Problems.Topics-Comments-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/435806318/Java_Problems.Topics-Comments-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/461709860/Java_Problems.Topics-Integer_types_and_operations-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/461709860/Java_Problems.Topics-Integer_types_and_operations-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/461709860/Java_Problems.Topics-Integer_types_and_operations-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/461709860/Java_Problems.Topics-Integer_types_and_operations-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/501917871/Java_Problems.Topics-Integer_types_and_operations-Arithmetic_expression.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/501917871/Java_Problems.Topics-Integer_types_and_operations-Arithmetic_expression.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/501917871/Java_Problems.Topics-Integer_types_and_operations-Arithmetic_expression.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/501917871/Java_Problems.Topics-Integer_types_and_operations-Arithmetic_expression.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/751352683/Java_Problems.Topics-Reading_user's_input_with_Scanner-Brewing_up_a_friendly_byte.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/751352683/Java_Problems.Topics-Reading_user's_input_with_Scanner-Brewing_up_a_friendly_byte.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/751352683/Java_Problems.Topics-Reading_user's_input_with_Scanner-Brewing_up_a_friendly_byte.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/751352683/Java_Problems.Topics-Reading_user's_input_with_Scanner-Brewing_up_a_friendly_byte.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/756308584/Java_Problems.Topics-Types_and_variables-Fill_the_declaration.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/756308584/Java_Problems.Topics-Types_and_variables-Fill_the_declaration.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/756308584/Java_Problems.Topics-Types_and_variables-Fill_the_declaration.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/756308584/Java_Problems.Topics-Types_and_variables-Fill_the_declaration.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/8738944/Java_Problems.Topics-Reading_user's_input_with_Scanner-Different_types.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/8738944/Java_Problems.Topics-Reading_user's_input_with_Scanner-Different_types.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/8738944/Java_Problems.Topics-Reading_user's_input_with_Scanner-Different_types.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/8738944/Java_Problems.Topics-Reading_user's_input_with_Scanner-Different_types.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/886241509/Java_Problems.Topics-Reading_user's_input_with_Scanner-Direct_input.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/886241509/Java_Problems.Topics-Reading_user's_input_with_Scanner-Direct_input.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/886241509/Java_Problems.Topics-Reading_user's_input_with_Scanner-Direct_input.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/886241509/Java_Problems.Topics-Reading_user's_input_with_Scanner-Direct_input.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Checking if a number is even or odd/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Checking_if_a_number_is_even_or_odd.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Checking if a number is even or odd/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Checking_if_a_number_is_even_or_odd.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Checking if a number is even or odd/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Checking_if_a_number_is_even_or_odd.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Checking if a number is even or odd/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Checking_if_a_number_is_even_or_odd.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Comparing two integers in Java/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Comparing_two_integers_in_Java.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Comparing two integers in Java/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Comparing_two_integers_in_Java.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Comparing two integers in Java/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Comparing_two_integers_in_Java.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Comparing two integers in Java/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Comparing_two_integers_in_Java.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Declaring boolean variables/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Declaring_boolean_variables.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Declaring boolean variables/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Declaring_boolean_variables.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Declaring boolean variables/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Declaring_boolean_variables.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Declaring boolean variables/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Declaring_boolean_variables.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Night guard's digital watchdog dilemma/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Night_guard's_digital_watchdog_dilemma.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Night guard's digital watchdog dilemma/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Night_guard's_digital_watchdog_dilemma.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Night guard's digital watchdog dilemma/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Night_guard's_digital_watchdog_dilemma.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Night guard's digital watchdog dilemma/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Night_guard's_digital_watchdog_dilemma.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Print true/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Print_true.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Print true/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Print_true.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Print true/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Print_true.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Print true/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Print_true.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Theory/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Theory/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Theory/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Boolean type and operations. True and false/Theory/Java_Problems.Topics-Boolean_type_and_operations._True_and_false-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Boys in a sport class/Java_Problems.Topics-Comparing_values._Relational_operators-Boys_in_a_sport_class.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Boys in a sport class/Java_Problems.Topics-Comparing_values._Relational_operators-Boys_in_a_sport_class.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Boys in a sport class/Java_Problems.Topics-Comparing_values._Relational_operators-Boys_in_a_sport_class.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Boys in a sport class/Java_Problems.Topics-Comparing_values._Relational_operators-Boys_in_a_sport_class.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Check the value/Java_Problems.Topics-Comparing_values._Relational_operators-Check_the_value.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Check the value/Java_Problems.Topics-Comparing_values._Relational_operators-Check_the_value.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Check the value/Java_Problems.Topics-Comparing_values._Relational_operators-Check_the_value.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Check the value/Java_Problems.Topics-Comparing_values._Relational_operators-Check_the_value.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Comparing two integers  greater, less or equal/Java_Problems.Topics-Comparing_values._Relational_operators-Comparing_two_integers__greater,_less_or_equal.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Comparing two integers  greater, less or equal/Java_Problems.Topics-Comparing_values._Relational_operators-Comparing_two_integers__greater,_less_or_equal.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Comparing two integers  greater, less or equal/Java_Problems.Topics-Comparing_values._Relational_operators-Comparing_two_integers__greater,_less_or_equal.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Comparing two integers  greater, less or equal/Java_Problems.Topics-Comparing_values._Relational_operators-Comparing_two_integers__greater,_less_or_equal.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Existing operators/Java_Problems.Topics-Comparing_values._Relational_operators-Existing_operators.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Existing operators/Java_Problems.Topics-Comparing_values._Relational_operators-Existing_operators.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Existing operators/Java_Problems.Topics-Comparing_values._Relational_operators-Existing_operators.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Existing operators/Java_Problems.Topics-Comparing_values._Relational_operators-Existing_operators.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Groundhogs at a party/Java_Problems.Topics-Comparing_values._Relational_operators-Groundhogs_at_a_party.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Groundhogs at a party/Java_Problems.Topics-Comparing_values._Relational_operators-Groundhogs_at_a_party.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Groundhogs at a party/Java_Problems.Topics-Comparing_values._Relational_operators-Groundhogs_at_a_party.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Groundhogs at a party/Java_Problems.Topics-Comparing_values._Relational_operators-Groundhogs_at_a_party.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Theory/Java_Problems.Topics-Comparing_values._Relational_operators-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Theory/Java_Problems.Topics-Comparing_values._Relational_operators-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Theory/Java_Problems.Topics-Comparing_values._Relational_operators-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Comparing values. Relational operators/Theory/Java_Problems.Topics-Comparing_values._Relational_operators-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Check a number is positive/Java_Problems.Topics-Conditional_statement-Check_a_number_is_positive.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Check a number is positive/Java_Problems.Topics-Conditional_statement-Check_a_number_is_positive.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Check a number is positive/Java_Problems.Topics-Conditional_statement-Check_a_number_is_positive.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Check a number is positive/Java_Problems.Topics-Conditional_statement-Check_a_number_is_positive.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Determine the output/Java_Problems.Topics-Conditional_statement-Determine_the_output.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Determine the output/Java_Problems.Topics-Conditional_statement-Determine_the_output.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Determine the output/Java_Problems.Topics-Conditional_statement-Determine_the_output.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Determine the output/Java_Problems.Topics-Conditional_statement-Determine_the_output.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Determining range of an integer  low, mid or high/Java_Problems.Topics-Conditional_statement-Determining_range_of_an_integer__low,_mid_or_high.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Determining range of an integer  low, mid or high/Java_Problems.Topics-Conditional_statement-Determining_range_of_an_integer__low,_mid_or_high.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Determining range of an integer  low, mid or high/Java_Problems.Topics-Conditional_statement-Determining_range_of_an_integer__low,_mid_or_high.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Determining range of an integer  low, mid or high/Java_Problems.Topics-Conditional_statement-Determining_range_of_an_integer__low,_mid_or_high.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Interval/Java_Problems.Topics-Conditional_statement-Interval.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Interval/Java_Problems.Topics-Conditional_statement-Interval.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Interval/Java_Problems.Topics-Conditional_statement-Interval.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Interval/Java_Problems.Topics-Conditional_statement-Interval.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/The army of units/Java_Problems.Topics-Conditional_statement-The_army_of_units.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/The army of units/Java_Problems.Topics-Conditional_statement-The_army_of_units.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/The army of units/Java_Problems.Topics-Conditional_statement-The_army_of_units.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/The army of units/Java_Problems.Topics-Conditional_statement-The_army_of_units.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Theory/Java_Problems.Topics-Conditional_statement-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Theory/Java_Problems.Topics-Conditional_statement-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Theory/Java_Problems.Topics-Conditional_statement-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Conditional statement/Theory/Java_Problems.Topics-Conditional_statement-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Determine the result/Java_Problems.Topics-Floating-point_types_and_operations-Determine_the_result.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Determine the result/Java_Problems.Topics-Floating-point_types_and_operations-Determine_the_result.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Determine the result/Java_Problems.Topics-Floating-point_types_and_operations-Determine_the_result.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Determine the result/Java_Problems.Topics-Floating-point_types_and_operations-Determine_the_result.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Difference between two doubles/Java_Problems.Topics-Floating-point_types_and_operations-Difference_between_two_doubles.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Difference between two doubles/Java_Problems.Topics-Floating-point_types_and_operations-Difference_between_two_doubles.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Difference between two doubles/Java_Problems.Topics-Floating-point_types_and_operations-Difference_between_two_doubles.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Difference between two doubles/Java_Problems.Topics-Floating-point_types_and_operations-Difference_between_two_doubles.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Distance/Java_Problems.Topics-Floating-point_types_and_operations-Distance.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Distance/Java_Problems.Topics-Floating-point_types_and_operations-Distance.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Distance/Java_Problems.Topics-Floating-point_types_and_operations-Distance.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Distance/Java_Problems.Topics-Floating-point_types_and_operations-Distance.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Liquid pressure/Java_Problems.Topics-Floating-point_types_and_operations-Liquid_pressure.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Liquid pressure/Java_Problems.Topics-Floating-point_types_and_operations-Liquid_pressure.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Liquid pressure/Java_Problems.Topics-Floating-point_types_and_operations-Liquid_pressure.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Liquid pressure/Java_Problems.Topics-Floating-point_types_and_operations-Liquid_pressure.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Spherical sleuthing with Math's magic/Java_Problems.Topics-Floating-point_types_and_operations-Spherical_sleuthing_with_Math's_magic.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Spherical sleuthing with Math's magic/Java_Problems.Topics-Floating-point_types_and_operations-Spherical_sleuthing_with_Math's_magic.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Spherical sleuthing with Math's magic/Java_Problems.Topics-Floating-point_types_and_operations-Spherical_sleuthing_with_Math's_magic.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Spherical sleuthing with Math's magic/Java_Problems.Topics-Floating-point_types_and_operations-Spherical_sleuthing_with_Math's_magic.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Theory/Java_Problems.Topics-Floating-point_types_and_operations-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Theory/Java_Problems.Topics-Floating-point_types_and_operations-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Theory/Java_Problems.Topics-Floating-point_types_and_operations-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/Theory/Java_Problems.Topics-Floating-point_types_and_operations-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/What is the value/Java_Problems.Topics-Floating-point_types_and_operations-What_is_the_value.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/What is the value/Java_Problems.Topics-Floating-point_types_and_operations-What_is_the_value.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/What is the value/Java_Problems.Topics-Floating-point_types_and_operations-What_is_the_value.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Floating-point types and operations/What is the value/Java_Problems.Topics-Floating-point_types_and_operations-What_is_the_value.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/Decrement all/Java_Problems.Topics-Increment_and_decrement-Decrement_all.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/Decrement all/Java_Problems.Topics-Increment_and_decrement-Decrement_all.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/Decrement all/Java_Problems.Topics-Increment_and_decrement-Decrement_all.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/Decrement all/Java_Problems.Topics-Increment_and_decrement-Decrement_all.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/Increase, decrease and increase an integer/Java_Problems.Topics-Increment_and_decrement-Increase,_decrease_and_increase_an_integer.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/Increase, decrease and increase an integer/Java_Problems.Topics-Increment_and_decrement-Increase,_decrease_and_increase_an_integer.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/Increase, decrease and increase an integer/Java_Problems.Topics-Increment_and_decrement-Increase,_decrease_and_increase_an_integer.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/Increase, decrease and increase an integer/Java_Problems.Topics-Increment_and_decrement-Increase,_decrease_and_increase_an_integer.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/Theory/Java_Problems.Topics-Increment_and_decrement-Theory.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/Theory/Java_Problems.Topics-Increment_and_decrement-Theory.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/Theory/Java_Problems.Topics-Increment_and_decrement-Theory.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/Theory/Java_Problems.Topics-Increment_and_decrement-Theory.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/What is the result/Java_Problems.Topics-Increment_and_decrement-What_is_the_result.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/What is the result/Java_Problems.Topics-Increment_and_decrement-What_is_the_result.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/What is the result/Java_Problems.Topics-Increment_and_decrement-What_is_the_result.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/.idea/modules/Topics/Increment and decrement/What is the result/Java_Problems.Topics-Increment_and_decrement-What_is_the_result.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/Topics/section-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/Topics/section-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Problems/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Java Problems/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Calculate Square/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Calculate Square/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Calculate Square/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Calculate Square/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Determine an exception/src/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Determine an exception/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Determine an exception/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Determine an exception/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Explore the standard class library/src/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Explore the standard class library/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Explore the standard class library/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Explore the standard class library/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Is the code fully protected/src/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Is the code fully protected/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Is the code fully protected/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Is the code fully protected/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/No exceptions/src/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/No exceptions/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/No exceptions/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/No exceptions/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Out of bounds/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Out of bounds/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Out of bounds/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Out of bounds/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Theory/src/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Theory/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Theory/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/Theory/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/Array exceptions/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Avoid NPE/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Avoid NPE/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Avoid NPE/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Avoid NPE/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Lines that may throw NPE/src/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Lines that may throw NPE/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Lines that may throw NPE/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Lines that may throw NPE/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Return empty string when argument is null/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Return empty string when argument is null/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Return empty string when argument is null/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Return empty string when argument is null/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Theory/src/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Theory/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Theory/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Theory/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Unknown input/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Unknown input/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Unknown input/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Unknown input/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/When NPE cannot occur/src/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/When NPE cannot occur/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/When NPE cannot occur/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/When NPE cannot occur/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Where NPE might occur/src/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Where NPE might occur/task-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Where NPE might occur/task-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/Where NPE might occur/task.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/NullPointerException/lesson-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Topics/section-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EduFeatureManager">{}</component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlexVonBerg&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AlexVonBerg/Cinema-RoomManager-java.git&quot;,
+    &quot;accountId&quot;: &quot;0a6e20eb-4e62-43da-9809-dcc6a125ad5b&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Bulls and Cows/task/src/bullscows/Main.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Bulls and Cows/task/test/BullsCowsTest.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="354NlqAN1aejCNGb3G2ppPPdg4n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Edu.LearningObjectsStorageType&quot;: &quot;SQLite&quot;,
+    &quot;Edu.Yaml.Migrate&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SqlInitializationState">
+    <taskDatabasesInitialized>
+      <option value="jdbc:h2:file:/Users/alex/Hyperskill/Bulls and Cows/Game log/db/db" />
+    </taskDatabasesInitialized>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="941ed61c-8184-48a0-b805-54da0bc04eb2" name="Changes" comment="" />
+      <created>1762365537535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1762365537535</updated>
+      <workItem from="1762365544513" duration="28000" />
+      <workItem from="1762365629517" duration="5000" />
+      <workItem from="1762365645683" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
